@@ -1,0 +1,16 @@
+/*  
+ *  Theme Name: GnarlyMedia Canvas Theme
+ *  Theme URI: http://gnarlymedia.com.au
+ *  Version: 1.0
+ *  Description: Custom Theme based on Canvas
+ *  Author: GnarlyMedia
+ *  Author URI: http://www.gnarlymedia.com.au
+ *  Template: canvas
+ *
+ *  */
+
+/* Default styles */
+
+@import "../canvas/style.css";
+
+/*-------------------------------------------------------------------------------------------*/
